@@ -11,3 +11,4 @@ Ressources:
 - [Codecademy](https://www.codecademy.com)
 - [Codecademy on Java](https://www.codecademy.com/resources/docs/java)
 - [Codecademy Java Course](https://www.codecademy.com/catalog/language/java)
+- [Codecademy Student discount](https://www.codecademy.com/student-center)
